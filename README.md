@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ZendVN.com
-- 🌱 I’m currently learning HTML, CSS, Jquery, PHP, Laravel, Python, Java
+- 🔭 I’m currently learning by myself at ZendVN.com
+- 🌱 I’m currently learning Frontend, Backend PHP, Python, Java, a little d. 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
