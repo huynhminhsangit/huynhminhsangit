@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sang from ZendVN
+### Hi there 👋 I'm Sang from Ho Chi Minh City.
 
 <a href="https://app.daily.dev/sanghm"><img src="https://api.daily.dev/devcards/830d266c8d3a4ca198884b3fea53c50f.png?r=ou9" width="400" alt="Huỳnh Minh Sang's Dev Card"/></a>
 
@@ -6,8 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning by myself at ZendVN.com
-- 🌱 I’m currently learning Frontend, Backend PHP, Python, Java, a little d. 
+- 🌱 I’m currently learning Frontend, Backend PHP, Python, Java. 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
